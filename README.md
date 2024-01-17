@@ -6,6 +6,8 @@ BLOOM is trained on the ROOTS corpus, a composite collection of 498 Hugging Face
 
 This LLM model has been trained on the Product Descriptions and Ads dataset from Hugging Face and fine-tuned by using Parameter-Efficient Fine-Tuning (PEFT) techniques to generate simple marketing lines for your product.
 
+![Img](https://github.com/abhamidi-1234/AdPulse---Generate-Ads-for-your-Product/blob/main/Image.png)
+
 ## Note
 
 I am using the Bloom LLM with 1.7 Billion parameters. Compare this with GPT-4 which has a whopping 1.76 Trillion parameters. So, naturally, the performance of this model is not up to the mark. But Bloom is open-source and free to use. Use other LLMs for better content generation. 
